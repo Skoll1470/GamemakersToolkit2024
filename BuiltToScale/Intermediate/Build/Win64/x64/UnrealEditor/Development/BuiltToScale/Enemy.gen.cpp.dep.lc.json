@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\thoma\\onedrive\\bureau\\work\\gamemakerstoolkit2024\\builttoscale\\intermediate\\build\\win64\\unrealeditor\\inc\\builttoscale\\uht\\enemy.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\thoma\\onedrive\\bureau\\work\\gamemakerstoolkit2024\\builttoscale\\intermediate\\build\\win64\\x64\\builttoscaleeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\thoma\\onedrive\\bureau\\work\\gamemakerstoolkit2024\\builttoscale\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\builttoscale\\definitions.builttoscale.h",
+            "c:\\users\\thoma\\onedrive\\bureau\\work\\gamemakerstoolkit2024\\builttoscale\\source\\builttoscale\\enemy.h",
+            "c:\\users\\thoma\\onedrive\\bureau\\work\\gamemakerstoolkit2024\\builttoscale\\intermediate\\build\\win64\\unrealeditor\\inc\\builttoscale\\uht\\enemy.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

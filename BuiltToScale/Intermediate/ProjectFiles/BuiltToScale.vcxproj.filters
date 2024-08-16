@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BuiltToScale.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BuiltToScale.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BuiltToScaleEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BuiltToScale">
+      <UniqueIdentifier>{FC2F8D34-2D92-3A19-B53D-532B1CD9EE64}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BuiltToScale\BuiltToScale.Build.cs">
+      <Filter>Source\BuiltToScale</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BuiltToScale\BuiltToScale.cpp">
+      <Filter>Source\BuiltToScale</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BuiltToScale\BuiltToScale.h">
+      <Filter>Source\BuiltToScale</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BuiltToScale\BuiltToScaleCharacter.cpp">
+      <Filter>Source\BuiltToScale</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BuiltToScale\BuiltToScaleCharacter.h">
+      <Filter>Source\BuiltToScale</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BuiltToScale\BuiltToScaleGameMode.cpp">
+      <Filter>Source\BuiltToScale</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BuiltToScale\BuiltToScaleGameMode.h">
+      <Filter>Source\BuiltToScale</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BuiltToScale\BuiltToScalePlayerController.cpp">
+      <Filter>Source\BuiltToScale</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BuiltToScale\BuiltToScalePlayerController.h">
+      <Filter>Source\BuiltToScale</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BuiltToScale\Enemy.cpp">
+      <Filter>Source\BuiltToScale</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BuiltToScale\Enemy.h">
+      <Filter>Source\BuiltToScale</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

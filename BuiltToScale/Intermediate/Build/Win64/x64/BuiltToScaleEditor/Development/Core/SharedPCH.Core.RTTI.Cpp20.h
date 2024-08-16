@@ -1,0 +1,3 @@
+// PCH for Runtime/Core/Public/CoreSharedPCH.h
+#include "C:/Users/thoma/OneDrive/Bureau/Work/GamemakersToolkit2024/BuiltToScale/Intermediate/Build/Win64/x64/BuiltToScaleEditor/Development/Core/SharedDefinitions.Core.RTTI.Cpp20.h"
+#include "Runtime/Core/Public/CoreSharedPCH.h"

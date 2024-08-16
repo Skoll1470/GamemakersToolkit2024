@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BuiltToScale",
+			"Path": "..\\Source\\BuiltToScale.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BuiltToScaleEditor",
+			"Path": "..\\Source\\BuiltToScaleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

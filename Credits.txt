@@ -1,0 +1,3 @@
+Mixamo - Main Character
+ThebaseMesh - Apple
+Protofactor Inc - Enemies

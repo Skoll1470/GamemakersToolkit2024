@@ -1,0 +1,6 @@
+
+*.db
+*.ipch
+*.pch
+*.vsidx
+BuiltToScale/.vs/BuiltToScale/v17/Browse.VC.opendb
