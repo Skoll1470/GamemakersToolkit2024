@@ -1,3 +1,5 @@
 Mixamo - Main Character
 ThebaseMesh - Apple
 Protofactor Inc - Enemies
+Sound - Mixkit (dog, eagle) / Breviceps (dragon) / SilverIllusionist (apple eating)
+Music - Kevin MacLeod

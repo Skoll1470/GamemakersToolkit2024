@@ -1,0 +1,6 @@
+2024/08/19-20:49:43.698 15698 Creating DB C:/Users/thoma/OneDrive/Bureau/Work/GamemakersToolkit2024/BuiltToScale/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/08/19-20:49:43.715 15698 Reusing MANIFEST C:/Users/thoma/OneDrive/Bureau/Work/GamemakersToolkit2024/BuiltToScale/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/19-20:51:56.256 15698 Level-0 table #5: started
+2024/08/19-20:51:56.270 15698 Level-0 table #5: 1167 bytes OK
+2024/08/19-20:51:56.272 15698 Delete type=0 #3
+2024/08/19-20:51:56.272 15698 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
