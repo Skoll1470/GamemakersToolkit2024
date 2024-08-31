@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\thoma\\onedrive\\bureau\\work\\gamemakerstoolkit2024\\builttoscale\\intermediate\\build\\win64\\unrealgame\\inc\\builttoscale\\uht\\builttoscale.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\thoma\\onedrive\\bureau\\work\\gamemakerstoolkit2024\\builttoscale\\intermediate\\build\\win64\\x64\\builttoscale\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\thoma\\onedrive\\bureau\\work\\gamemakerstoolkit2024\\builttoscale\\intermediate\\build\\win64\\x64\\unrealgame\\development\\builttoscale\\definitions.builttoscale.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

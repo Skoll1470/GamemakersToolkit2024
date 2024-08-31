@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\thoma\\onedrive\\bureau\\work\\gamemakerstoolkit2024\\builttoscale\\source\\builttoscale\\builttoscalegamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\thoma\\onedrive\\bureau\\work\\gamemakerstoolkit2024\\builttoscale\\intermediate\\build\\win64\\x64\\builttoscale\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\thoma\\onedrive\\bureau\\work\\gamemakerstoolkit2024\\builttoscale\\intermediate\\build\\win64\\x64\\unrealgame\\development\\builttoscale\\definitions.builttoscale.h",
+            "c:\\users\\thoma\\onedrive\\bureau\\work\\gamemakerstoolkit2024\\builttoscale\\source\\builttoscale\\builttoscalegamemode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\thoma\\onedrive\\bureau\\work\\gamemakerstoolkit2024\\builttoscale\\intermediate\\build\\win64\\unrealgame\\inc\\builttoscale\\uht\\builttoscalegamemode.generated.h",
+            "c:\\users\\thoma\\onedrive\\bureau\\work\\gamemakerstoolkit2024\\builttoscale\\source\\builttoscale\\builttoscaleplayercontroller.h",
+            "c:\\users\\thoma\\onedrive\\bureau\\work\\gamemakerstoolkit2024\\builttoscale\\intermediate\\build\\win64\\unrealgame\\inc\\builttoscale\\uht\\builttoscaleplayercontroller.generated.h",
+            "c:\\users\\thoma\\onedrive\\bureau\\work\\gamemakerstoolkit2024\\builttoscale\\source\\builttoscale\\builttoscalecharacter.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\thoma\\onedrive\\bureau\\work\\gamemakerstoolkit2024\\builttoscale\\intermediate\\build\\win64\\unrealgame\\inc\\builttoscale\\uht\\builttoscalecharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -4,3 +4,12 @@
 *.pch
 *.vsidx
 BuiltToScale/.vs/BuiltToScale/v17/Browse.VC.opendb
+BuiltToScale/Binaries/Win64/BuiltToScale.exe
+BuiltToScale/Binaries/Win64/BuiltToScale.pdb
+BuiltToScale/Saved/Cooked/Windows/BuiltToScale/Content/ShaderArchive-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+BuiltToScale/Saved/Cooked/Windows/BuiltToScale/Metadata/ShaderLibrarySource/ShaderArchive-BuiltToScale-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+BuiltToScale/Saved/Cooked/Windows/BuiltToScale/Metadata/ShaderLibrarySource/ShaderArchive-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+BuiltToScale/Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderCode-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+BuiltToScale/Saved/StagedBuilds/Windows/BuiltToScale/Binaries/Win64/BuiltToScale.exe
+BuiltToScale/Saved/StagedBuilds/Windows/BuiltToScale/Binaries/Win64/BuiltToScale.pdb
+BuiltToScale/Saved/StagedBuilds/Windows/BuiltToScale/Content/Paks/BuiltToScale-Windows.ucas
